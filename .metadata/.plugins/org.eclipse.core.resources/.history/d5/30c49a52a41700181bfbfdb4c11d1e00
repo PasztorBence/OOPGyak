@@ -1,0 +1,14 @@
+
+public class PiCalc {
+	public static void main(String[] args) {
+		double pi=2;
+		System.out.println(pi);
+		for (int i = 1; i < 1000; i++) {
+			double left = (2*i)/(2*i-1);
+			double right = (2*i)/(2*i+1);
+			pi=pi*left*right;
+			System.out.println(pi);
+		}
+System.out.println(pi);
+	}
+}

@@ -1,0 +1,11 @@
+Rendsz�m;T�pus;Sz�n;Gy�rt_�v;�r
+===============================
+XYZ-999;Suzuki Swift;piros;2008;1200000
+CIC-555;Renault Megane;barna;2001;800000
+QRV-311;Mercedes ML500;fekete;2018;31000000
+BMM-322;Honda Jazz;feh�r;2009;1500000
+KMN-761;Skoda Octavia;piros;2015;2300000
+CDF-947;Trabant 601;bilik�k;1981;400000
+MWM-310;Kia Ceed;feh�r;2014;3200000
+CET-417;Opel Corsa;k�k;1999;700000
+CXP-444;Opel Insignia;fekete;2013;5400000

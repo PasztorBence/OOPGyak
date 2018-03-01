@@ -1,0 +1,19 @@
+
+public class PiCalc {
+	public static void main(String[] args) {
+		double pi=2;
+		System.out.println(pi);
+		for (int i = 1; i < 1000; i++) {
+			double left = (2*i)/(2*i-1);
+			double right = (2*i)/(2*i+1);
+			pi=pi*left*right;
+		}
+System.out.println(pi);
+		double pii=1;
+		double nevezo = 1;
+		for (int i = 1; i < 1000; i++) {
+			pii = pii-(1/nevezo);
+			nevezo = nevezo + 2;
+		}
+	}
+}

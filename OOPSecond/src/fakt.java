@@ -1,0 +1,16 @@
+
+public class fakt {
+	public static void main(String[] args) {
+		for (int i = 1; i <= 10; i++) {
+			int fakt = FaktCalc(i);
+			System.out.println(fakt);
+		}
+	}
+	public static int FaktCalc (int fakt){
+		int eredmeny = 1;
+		for (int i = 1; i <= fakt; i++) {
+			eredmeny = eredmeny*i;
+		}
+		return eredmeny;
+	}
+}

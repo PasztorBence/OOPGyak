@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+/home/stud2016/pasztor6/workspace/.metadata/.plugins/org.eclipse.jdt.core
+22503740.index
+2414768375.index
+1525260505.index
+3259872558.index
+3605036167.index

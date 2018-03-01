@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+
+public class Calculator {
+	public static void main(String[] args) {
+		System.out.println("Kérem az első számot:");
+		Scanner scannera = new Scanner (System.in);
+		double a = scannera.nextDouble();
+		System.out.println("Kérem a műveletet:");
+		Scanner scannerb = new Scanner (System.in);
+		String muvelet = scannerb.next();
+		System.out.println("Kérem a második számot:");
+		Scanner scannerc = new Scanner (System.in);
+		double b = scannerc.nextDouble();
+		switch (muvelet) {
+		case "+":
+			System.out.println("megoldás:"+(a+b));
+			break;
+		case "-":
+			System.out.println("megoldás:"+(a-b));
+			break;
+		case "/":
+			while (b==0) {
+				if (b==0) {
+					System.out.println("Nem oszthatunk 0-val, adj meg új számot");
+					Scanner scannerd = new Scanner (System.in);
+					b = scannerc.nextDouble();
+				}
+			}
+			System.out.println("megoldás:"+(a/b));
+			break;
+		case "*":
+			System.out.println("megoldás:"+(a*b));
+			break;
+		}
+	}
+
+}
