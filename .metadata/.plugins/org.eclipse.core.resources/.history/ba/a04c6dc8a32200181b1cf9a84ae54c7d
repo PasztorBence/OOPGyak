@@ -1,0 +1,11 @@
+public class Employee {
+	String employeeName;
+	long salary;
+	
+	public long increaseSalary (long increase,long employeeSalary){
+		return employeeSalary+=increase;
+	}
+	public String displayInfo(long salary,String name){
+		return "Salary:"+salary+" Name:"+name;
+	}
+}

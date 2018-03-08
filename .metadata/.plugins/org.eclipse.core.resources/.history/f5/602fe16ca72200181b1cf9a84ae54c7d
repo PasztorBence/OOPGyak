@@ -1,0 +1,22 @@
+
+public class Main {
+	public static void main(String[] args) {
+		Employee employee = new Employee();
+	//	employee.employeeName="MindlessWorker";
+	//	employee.salary=1000;
+		
+		employee.setEmployeeName("MindlessWorker");
+		employee.setSalary(1000);
+		
+	//	employee.salary=employee.increaseSalary(500,employee.salary);
+	//	System.out.println(employee.displayInfo(employee.salary, employee.employeeName));
+		
+		Employee employee2 = new Employee();
+		employee2.setEmployeeName("Pista");
+		employee2.setSalary(2000);
+		
+		System.out.println(employee.displayInfo());
+		System.out.println(employee2.displayInfo());
+	}
+
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="18" version="2.0">
+<workbench progressCount="21" version="2.0">
 <workbenchAdvisor/>
 <window height="767" maximized="true" width="1024" x="268" y="187">
 <fastViewData fastViewLocation="1024"/>
@@ -25,28 +25,29 @@
 </coolbarLayout>
 <page aggregateWorkingSetId="Aggregate for window 1493878099534" focus="true" label="Workspace - Java">
 <editors>
-<editorArea activeWorkbook="DefaultEditorWorkbook">
+<editorArea activeWorkbook="org.eclipse.ui.internal.EditorStack@10cb5047">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.internal.EditorStack@10cb5047" ratio="0.41815937" ratioLeft="677" ratioRight="942" relationship="2" relative="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculator.java" partName="Calculator.java" path="/home/stud2016/pasztor6/workspace/OOPThird/src/Calculator.java" title="Calculator.java" tooltip="OOPThird/src/Calculator.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OOPThird/src/Calculator.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="550" selectionTopPixel="0"/>
+<editor focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Employee.java" partName="Employee.java" path="/home/stud2016/pasztor6/workspace/EmployeeManager/src/Employee.java" title="Employee.java" tooltip="EmployeeManager/src/Employee.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EmployeeManager/src/Employee.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="357" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CalculatorB.java" partName="CalculatorB.java" path="/home/stud2016/pasztor6/workspace/OOPThird/src/CalculatorB.java" title="CalculatorB.java" tooltip="OOPThird/src/CalculatorB.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OOPThird/src/CalculatorB.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="26" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomTomb.java" partName="RandomTomb.java" path="/home/stud2016/pasztor6/workspace/OOPThird/src/RandomTomb.java" title="RandomTomb.java" tooltip="OOPThird/src/RandomTomb.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OOPThird/src/RandomTomb.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="197" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="/home/stud2016/pasztor6/workspace/EmployeeManager/src/Main.java" title="Main.java" tooltip="EmployeeManager/src/Main.java" workbook="org.eclipse.ui.internal.EditorStack@10cb5047">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EmployeeManager/src/Main.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1466" selectionTopPixel="405"/>
 </editor>
 </editors>
 <views>
@@ -243,7 +244,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.1503405" ratioLeft="287" ratioRight="1622" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.09743321" ratioLeft="186" ratioRight="1723" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.6876356" ratioLeft="634" ratioRight="288" relationship="4" relative="org.eclipse.ui.editorss">
 <folder appearance="2" expanded="2">
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
@@ -260,7 +261,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@a63643e" ratio="0.69305855" ratioLeft="639" ratioRight="283" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@a63643e" ratio="0.75488067" ratioLeft="696" ratioRight="226" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
@@ -280,159 +281,158 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/OOPThird/src/Calculator.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/OOPThird/src/CalculatorB.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/OOPThird/src/RandomTomb.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EmployeeManager/src/Main.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EmployeeManager/src/Employee.java"/>
 </editors>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="916" y="0"/>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="145" y="32"/>
 </item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="915" y="0"/>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="905" y="0"/>
 </item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="391" y="0"/>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="269" y="0"/>
 </item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="476" y="7"/>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="249" y="0"/>
 </item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="495" y="1"/>
-</item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="801" y="0"/>
-</item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="807" y="0"/>
-</item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="734" y="7"/>
-</item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="734" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="27" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="829" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="455" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="825" y="0"/>
-</item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="734" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="825" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="816" y="8"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="140" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="99" y="7"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="450" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="285" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="284" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="450" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="450" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="807" y="0"/>
-</item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="734" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="807" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="580" y="0"/>
-</item>
-<item historyLabel="Calculator.java" index="0">
-<position info="not_deleted" x="550" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="580" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="600" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="699" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="419" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="228" y="0"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
+<item historyLabel="Main.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="79" y="0"/>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="249" y="0"/>
 </item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="92" y="0"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="231" y="0"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="75" y="4"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="228" y="0"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
-<position/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="238" y="0"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="238" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="228" y="0"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="238" y="0"/>
-</item>
-<item historyLabel="CalculatorB.java" index="1">
-<position info="not_deleted" x="0" y="26"/>
-</item>
-<item historyLabel="RandomTomb.java" index="2">
+<item historyLabel="Main.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="RandomTomb.java" index="2">
-<position/>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="65" y="0"/>
 </item>
-<item active="true" historyLabel="RandomTomb.java" index="2">
-<position info="not_deleted" x="141" y="0"/>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="76" y="8"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="330" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="394" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="339" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="908" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="339" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="259" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="28" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="637" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="268" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="574" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="635" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="635" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="439" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="289" y="48"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="414" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="439" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1920" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="635" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="632" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1923" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="702" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1920" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="806" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="842" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="875" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1920" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="844" y="13"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="911" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1060" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1241" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1239" y="1"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1310" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1500" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1452" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1453" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1495" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1446" y="0"/>
+</item>
+<item historyLabel="Employee.java" index="1">
+<position info="not_deleted" x="357" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1923" y="0"/>
+</item>
+<item historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1663" y="0"/>
+</item>
+<item active="true" historyLabel="Main.java" index="0">
+<position info="not_deleted" x="1920" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -440,9 +440,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -454,6 +451,12 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Employee.java" tooltip="EmployeeManager/src/Employee.java">
+<persistable path="/EmployeeManager/src/Employee.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" tooltip="EmployeeManager/src/Main.java">
+<persistable path="/EmployeeManager/src/Main.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomTomb.java" tooltip="OOPThird/src/RandomTomb.java">
 <persistable path="/OOPThird/src/RandomTomb.java"/>
 </file>
@@ -492,12 +495,6 @@
 </file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AutoTxtProgram.java" tooltip="/home/stud2016/pasztor6/Documents/ab_gyak2/AutoTxtProgram.java">
 <persistable uri="file:/home/stud2016/pasztor6/Documents/ab_gyak2/AutoTxtProgram.java"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AutoLp.java" tooltip="/home/stud2016/pasztor6/Documents/ab_gyak2/AutoLp.java">
-<persistable uri="file:/home/stud2016/pasztor6/Documents/ab_gyak2/AutoLp.java"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AutoHelp.java" tooltip="/home/stud2016/pasztor6/Documents/ab_gyak2/AutoHelp.java">
-<persistable uri="file:/home/stud2016/pasztor6/Documents/ab_gyak2/AutoHelp.java"/>
 </file>
 </mruList>
 </workbench>

@@ -1,5 +1,5 @@
 command=/usr/lib/jvm/java-8-openjdk-amd64/bin/javadoc
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="TV"><rhs name\="EladoTV"/></lhs><lhs name\="EladoTV"><rhs name\="EladoTV"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="TV"><rhs name\="EladoTV"/></lhs><lhs name\="EladoTV"><rhs name\="EladoTV"/></lhs><lhs name\="Employee"><rhs name\="Employee"/></lhs></history>
 content_assist_number_of_computers=13
 content_assist_proposals_background=247,247,247
 content_assist_proposals_foreground=33,33,33
