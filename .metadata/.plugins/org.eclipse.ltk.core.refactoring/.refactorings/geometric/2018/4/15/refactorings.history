@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;geometric/src/mypackage&apos;&#x0A;- Original project: &apos;geometric&apos;&#x0A;- Destination element: &apos;geometric/src/mypackage&apos;&#x0A;- Original elements:&#x0A;     Cuboid.java&#x0A;     Cylinder.java&#x0A;     Prism.java&#x0A;     runner.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;mypackage" element1="/src&lt;{Cuboid.java" element2="/src&lt;{Cylinder.java" element3="/src&lt;{Prism.java" element4="/src&lt;{runner.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1523515281608" units="4" version="1.0"/>
+</session>

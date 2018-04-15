@@ -1,0 +1,5 @@
+package colourable;
+
+public interface colorable {
+
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="19" version="2.0">
+<workbench progressCount="20" version="2.0">
 <workbenchAdvisor/>
 <window height="767" maximized="true" width="1024" x="268" y="187">
 <fastViewData fastViewLocation="1024"/>
@@ -31,17 +31,22 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="/home/stud2016/pasztor6/workspace/EmployeeManager2/src/Main.java" title="Main.java" tooltip="EmployeeManager2/src/Main.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EmployeeManager2/src/Main.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="845" selectionTopPixel="209"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="colorable.java" partName="colorable.java" path="/home/stud2016/pasztor6/workspace/Colourable/src/colourable/colorable.java" title="colorable.java" tooltip="Colourable/src/colourable/colorable.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Colourable/src/colourable/colorable.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="156" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Employee.java" partName="Employee.java" path="/home/stud2016/pasztor6/workspace/EmployeeManager2/src/Employee.java" title="Employee.java" tooltip="EmployeeManager2/src/Employee.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EmployeeManager2/src/Employee.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="418" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Point.java" partName="Point.java" path="/home/stud2016/pasztor6/workspace/Colourable/src/colourable/point/Point.java" title="Point.java" tooltip="Colourable/src/colourable/point/Point.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Colourable/src/colourable/point/Point.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="56" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ColorablePoint.java" partName="ColorablePoint.java" path="/home/stud2016/pasztor6/workspace/Colourable/src/colourable/point/ColorablePoint.java" title="ColorablePoint.java" tooltip="Colourable/src/colourable/point/ColorablePoint.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Colourable/src/colourable/point/ColorablePoint.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="173" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -275,160 +280,164 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EmployeeManager2/src/Main.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EmployeeManager2/src/Employee.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EmployeeManager/src/Main.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EmployeeManager/src/Employee.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/geometric/src/mypackage/Cylinder.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/geometric/src/mypackage/runner.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/geometric/src/basePackage/Database.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/geometric/src/basePackage/Main.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Colourable/src/colourable/colorable.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Colourable/src/Point.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Colourable/src/colourable/point/Point.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Colourable/src/colourable/point/ColorablePoint.java"/>
 </editors>
-<item historyLabel="Employee.java" index="1">
-<position info="not_deleted" x="1299" y="0"/>
+<item historyLabel="runner.java" index="1">
+<position info="not_deleted" x="363" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1807" y="0"/>
-</item>
-<item historyLabel="Main.java" index="2">
-<position info="not_deleted" x="833" y="231"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1807" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position/>
-</item>
-<item historyLabel="Employee.java" index="1">
-<position info="not_deleted" x="1299" y="0"/>
-</item>
-<item historyLabel="Main.java" index="2">
-<position info="not_deleted" x="833" y="231"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position/>
-</item>
-<item historyLabel="Employee.java" index="3">
+<item historyLabel="Database.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Main.java" index="2">
-<position info="not_deleted" x="833" y="231"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="165" y="0"/>
 </item>
-<item historyLabel="Employee.java" index="1">
-<position info="not_deleted" x="1299" y="0"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="264" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="332" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="281" y="0"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="880" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="135" y="7"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="880" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="626" y="22"/>
 </item>
-<item historyLabel="Employee.java" index="1">
-<position info="not_deleted" x="1299" y="0"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="578" y="18"/>
 </item>
-<item historyLabel="Main.java" index="2">
-<position info="not_deleted" x="833" y="231"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="880" y="0"/>
 </item>
-<item historyLabel="Employee.java" index="3">
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="769" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="840" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="782" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="840" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="835" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="949" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="955" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="936" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="895" y="21"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="1021" y="0"/>
+</item>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="995" y="8"/>
+</item>
+<item historyLabel="Main.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Employee.java" index="1">
-<position info="not_deleted" x="1299" y="0"/>
+<item historyLabel="Main.java" index="3">
+<position info="not_deleted" x="465" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="296" y="0"/>
+<item historyLabel="Main.java" index="3">
+<position info="not_deleted" x="341" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="700" y="0"/>
+<item historyLabel="Main.java" index="3">
+<position info="not_deleted" x="467" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="744" y="0"/>
+<item historyLabel="Main.java" index="3">
+<position info="not_deleted" x="380" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="719" y="22"/>
+<item historyLabel="Main.java" index="3">
+<position info="not_deleted" x="449" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="756" y="33"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="995" y="8"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="884" y="0"/>
+<item historyLabel="Main.java" index="3">
+<position info="not_deleted" x="449" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="879" y="0"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="995" y="8"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1027" y="0"/>
+<item historyLabel="Cylinder.java" index="0">
+<position info="not_deleted" x="350" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1225" y="0"/>
+<item historyLabel="Database.java" index="2">
+<position info="not_deleted" x="995" y="8"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1220" y="0"/>
+<item historyLabel="Main.java" index="3">
+<position info="not_deleted" x="449" y="0"/>
 </item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1804" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="7" y="34"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="70" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="143" y="7"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1796" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1461" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1479" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1595" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1594" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1796" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1521" y="74"/>
-</item>
-<item historyLabel="Employee.java" index="1">
-<position info="not_deleted" x="330" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="1594" y="0"/>
-</item>
-<item historyLabel="Employee.java" index="1">
-<position info="not_deleted" x="418" y="0"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="845" y="0"/>
-</item>
-<item historyLabel="Main.java" index="2">
-<position info="not_deleted" x="833" y="231"/>
-</item>
-<item historyLabel="Main.java" index="0">
-<position info="not_deleted" x="845" y="0"/>
-</item>
-<item historyLabel="Main.java" index="2">
-<position info="not_deleted" x="833" y="231"/>
-</item>
-<item historyLabel="Employee.java" index="3">
+<item historyLabel="colorable.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Main.java" index="2">
-<position info="not_deleted" x="833" y="231"/>
+<item historyLabel="colorable.java" index="4">
+<position info="not_deleted" x="156" y="0"/>
 </item>
-<item active="true" historyLabel="Main.java" index="0">
-<position info="not_deleted" x="845" y="0"/>
+<item historyLabel="Point.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="colorable.java" index="4">
+<position info="not_deleted" x="156" y="0"/>
+</item>
+<item historyLabel="Point.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Point.java" index="6">
+<position info="not_deleted" x="156" y="0"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="210" y="0"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="106" y="5"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="210" y="0"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="207" y="0"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="173" y="12"/>
+</item>
+<item historyLabel="Point.java" index="6">
+<position info="not_deleted" x="56" y="5"/>
+</item>
+<item historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="173" y="12"/>
+</item>
+<item historyLabel="Point.java" index="6">
+<position info="not_deleted" x="56" y="5"/>
+</item>
+<item active="true" historyLabel="ColorablePoint.java" index="7">
+<position info="not_deleted" x="173" y="12"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -451,6 +460,36 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ColorablePoint.java" tooltip="Colourable/src/colourable/point/ColorablePoint.java">
+<persistable path="/Colourable/src/colourable/point/ColorablePoint.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Point.java" tooltip="Colourable/src/colourable/point/Point.java">
+<persistable path="/Colourable/src/colourable/point/Point.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Point.java" tooltip="Colourable/src/Point.java">
+<persistable path="/Colourable/src/Point.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="colorable.java" tooltip="Colourable/src/colourable/colorable.java">
+<persistable path="/Colourable/src/colourable/colorable.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" tooltip="geometric/src/basePackage/Main.java">
+<persistable path="/geometric/src/basePackage/Main.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Database.java" tooltip="geometric/src/basePackage/Database.java">
+<persistable path="/geometric/src/basePackage/Database.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="runner.java" tooltip="geometric/src/runner.java">
+<persistable path="/geometric/src/runner.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Cuboid.java" tooltip="geometric/src/Cuboid.java">
+<persistable path="/geometric/src/Cuboid.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Cylinder.java" tooltip="geometric/src/Cylinder.java">
+<persistable path="/geometric/src/Cylinder.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Prism.java" tooltip="geometric/src/Prism.java">
+<persistable path="/geometric/src/Prism.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Employee.java" tooltip="EmployeeManager/src/Employee.java">
 <persistable path="/EmployeeManager/src/Employee.java"/>
 </file>
@@ -465,36 +504,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Array.java" tooltip="Rectangle/src/Array.java">
 <persistable path="/Rectangle/src/Array.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="array.java" tooltip="EmployeeManager/src/array.java">
-<persistable path="/EmployeeManager/src/array.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" tooltip="Rectangle/src/Main.java">
-<persistable path="/Rectangle/src/Main.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Rectangle.java" tooltip="Rectangle/src/Rectangle.java">
-<persistable path="/Rectangle/src/Rectangle.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomTomb.java" tooltip="OOPThird/src/RandomTomb.java">
-<persistable path="/OOPThird/src/RandomTomb.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CalculatorB.java" tooltip="OOPThird/src/CalculatorB.java">
-<persistable path="/OOPThird/src/CalculatorB.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculator.java" tooltip="OOPThird/src/Calculator.java">
-<persistable path="/OOPThird/src/Calculator.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PiCalc.java" tooltip="OOPSecond/src/PiCalc.java">
-<persistable path="/OOPSecond/src/PiCalc.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Primparok.java" tooltip="OOPSecond/src/Primparok.java">
-<persistable path="/OOPSecond/src/Primparok.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" tooltip="FirstProject/src/Main.java">
-<persistable path="/FirstProject/src/Main.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Foablak.java" tooltip="oopJava-master/ellenallas/src/ellenallas/Foablak.java">
-<persistable path="/oopJava-master/ellenallas/src/ellenallas/Foablak.java"/>
 </file>
 </mruList>
 </workbench>

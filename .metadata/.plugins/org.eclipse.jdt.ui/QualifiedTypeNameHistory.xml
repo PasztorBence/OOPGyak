@@ -9,4 +9,7 @@
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
 <fullyQualifiedTypeName name="Employee"/>
+<fullyQualifiedTypeName name="java.util.PrimitiveIterator.OfDouble"/>
+<fullyQualifiedTypeName name="mypackage.Cylinder"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
 </qualifiedTypeNameHistroy>

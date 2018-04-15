@@ -1,0 +1,5 @@
+package colourable.point;
+
+public interface ColorablePoint {
+
+}
